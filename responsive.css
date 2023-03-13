@@ -1,0 +1,212 @@
+@media(max-width:1199.5px) {
+    h1 {
+        font-size: 3.75rem;
+    }
+
+    h2 {
+        font-size: 2.1875rem;
+    }
+
+    h3 {
+        font-size: 1.875rem;
+        line-height: 2.6875rem;
+    }
+
+    h5 {
+        font-size: 1.0625rem;
+    }
+    /* .top-right-img .img-fluid{
+        max-width: 120%;
+        height: 25rem;
+        margin-left: 1rem;
+    } */
+    .about-text h1{
+        font-size: 1.5rem;
+        width: 8rem;
+        padding: 7px;
+        padding: 0;
+    }
+    .about-text h3{
+        font-size: 1rem;
+    }
+
+}
+
+@media(max-width:991px) {
+    .banner_wrapper {
+        margin-top: rem;
+    }
+
+    .header-scrolled {
+        height: auto;
+    }
+
+    .header_wrapper .navbar-collapse {
+        margin-top: -0.125rem;
+    }
+
+    .header_wrapper .menu-navbar-nav {
+        text-align: center;
+        background-color: white;
+        padding-bottom: 0.9375rem;
+    }
+
+    .header_wrapper .nav-item .nav-link {
+        margin-top: 0.9375rem;
+    }
+
+    section {
+        margin-top: 0rem;
+    }
+
+    .banner-content {
+        margin-top: 3rem;
+    }
+
+    .card1 {
+        width: 19rem;
+        margin-top: 1rem;
+    }
+
+    .card2 {
+        width: 19rem;
+        margin-top: 1rem;
+    }
+
+    .card3 {
+        width: 19rem;
+        margin-top: 1rem;
+    }
+
+    .lst-btn {
+        margin-top: 3.3rem;
+    }
+
+    .cards {
+        margin-top: 34rem;
+    }
+    .back-form{
+        height: 40rem;
+    }
+    /* .top-right-img .img-fluid{
+        max-width: 190%;
+        height: 25rem;
+        margin-left: 8rem;
+        margin-top: 1rem;
+        top: 1;
+    } */
+}
+
+
+@media(max-width:767px) {
+    h1 {
+        font-size: 2.5rem;
+        line-height: 3rem;
+    }
+
+    h2 {
+        font-size: 1.875rem;
+        line-height: 2.375rem;
+    }
+
+    h3 {
+        font-size: 1.5625rem;
+        line-height: 2.1875rem;
+    }
+
+    .card-main {
+        margin-top: 1rem;
+
+        width: 30rem;
+    }
+
+    .card1,
+    .card2,
+    .card3 {
+        width: 27rem;
+        margin-left: rem;
+    }
+
+    .back-form {
+        height: 43rem;
+    }
+}
+
+@media(max-width:547px) {
+
+    .card1,
+    .card2,
+    .card3 {
+        width: 22rem;
+
+    }
+}
+
+@media(max-width:501px) {
+
+    .card1,
+    .card2,
+    .card3 {
+        width: 18rem;
+
+    }
+
+}
+
+
+
+@media(max-width:1099px) {
+
+    .card1,
+    .card2,
+    .card3 {
+        margin-left: 3rem;
+    }
+}
+
+@media(max-width:1063px) {
+
+    .card1,
+    .card2,
+    .card3 {
+        margin-left: 0rem;
+    }
+}
+
+@media(max-width:545px) {
+
+    .card1,
+    .card2,
+    .card3 {
+        margin-left: 3rem;
+    }
+}
+
+@media(max-width:433px) {
+
+    .card1,
+    .card2,
+    .card3 {
+        margin-left: 1.5rem;
+    }
+}
+
+@media(max-width:407px) {
+
+    .card1,
+    .card2,
+    .card3 {
+        margin-left: 0.4rem;
+    }
+}
+
+
+
+@media(max-width:470px) {
+    .banner_wrapper .banner-content h2::after {
+        width: 60%;
+        top: 70%;
+        left: 30%;
+    }
+
+}
